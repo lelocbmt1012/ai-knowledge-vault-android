@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_blue">#175CD3</color>
+    <color name="brand_blue_dark">#124EAE</color>
+    <color name="screen_bg">#F5F7FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#152238</color>
+    <color name="text_secondary">#667085</color>
+    <color name="border">#E4E9F1</color>
+    <color name="success">#079455</color>
+    <color name="danger">#D92D20</color>
+    <color name="warning_text">#9A3412</color>
+</resources>
