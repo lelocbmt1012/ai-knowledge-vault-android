@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Knowledge Vault</string>
+    <string name="server_title">Kết nối máy chủ</string>
+    <string name="server_hint">https://ai.example.com</string>
+    <string name="server_help">Nhập địa chỉ máy chủ Knowledge Vault. Khi dùng Internet, địa chỉ phải bắt đầu bằng https://.</string>
+    <string name="test_connection">Kiểm tra kết nối</string>
+    <string name="save_open">Lưu &amp; mở ứng dụng</string>
+    <string name="open_settings">Máy chủ</string>
+</resources>
